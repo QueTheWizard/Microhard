@@ -1,2 +1,2 @@
-# Microhard
+# Just playing with MVC application
  
